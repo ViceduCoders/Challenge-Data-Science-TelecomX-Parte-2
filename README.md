@@ -19,7 +19,7 @@ La evaluación mediante la Matriz de Confusión confirma una alta capacidad del 
 
 1. **Análisis de Correlación:** A través del Mapa de Calor, se identificó una correlación positiva entre los cargos mensuales y la cancelación. Esto indica que la sensibilidad al precio influye significativamente en la decisión del cliente de abandonar el servicio.
 2. **Impacto del Tipo de Contrato:** Identificado como el predictor más fuerte. Los clientes con contratos **mes a mes** tienen una tasa de fuga del **42.7%**, comparado con solo el **2.8%** en contratos de dos años. La duración del compromiso reduce drásticamente la volatilidad del cliente, validando la estabilidad contractual como estrategia de retención.
-3. **Comportamiento del Gasto:** Mediante el análisis de distribución (Boxplot), se observa que los clientes que cancelan suelen tener cargos mensuales medianos más elevados, reforzando la idea de la competitividad por precio en el mercado de telecomunicaciones.
+3. **Comportamiento del Gasto:** Se observa que los clientes que cancelan suelen tener cargos mensuales medianos más elevados, reforzando la idea de la competitividad por precio en el mercado de telecomunicaciones.
 
 ---
 
